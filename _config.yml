@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Reisa F. Widjaja / Lil Academic World"
+title                    : "Reisa's Lil World"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Reisa Febriani Widjaja"
+  name             : "Reisa F. Widjaja"
   pronouns         : "she/her"  
   bio              : "Assistant Professor, Department of Mathematics & Statistics"
   location         : "La Crosse, Wisconsin"
