@@ -12,7 +12,9 @@ Hi! I’m Reisa Widjaja from Indonesia. I received my B.S. in Business Administr
 Brief biography
 ======
 
-I was born and raised in Indonesia, but spent my teenage years in China before pursuing my studies in the United States. I also have a Chinese name, 黄丹绿, which literally translates to “Yellow Red Green”, like the traffic lights.  
+I was born and raised in Indonesia, then spent my teenage years in China before pursuing my studies in the United States. I have a Chinese name, 黄丹绿, which literally translates to “Yellow Red Green”, like the traffic lights!
+
+My last name, Widjaja, is pronounced “Wijaya.”
 
 
 
