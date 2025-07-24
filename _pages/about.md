@@ -18,6 +18,7 @@ My last name, Widjaja, is pronounced “Wijaya.”
 
 
 
-
+<!-- Reisa, this is a symbol to comment out a Markdown file
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
+-->
